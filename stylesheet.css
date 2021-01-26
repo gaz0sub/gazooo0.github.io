@@ -3,8 +3,7 @@
 body {
    margin: 10px;
    padding: 10px;
-   font-famiry: sans-serif;
-   font-size: 1em;
+   font-famiry: 'メイリオ', 'Meiryo','ＭＳ ゴシック','Hiragino Kaku Gothic ProN','ヒラギノ角ゴ ProN W3',sans-serif;
 }
 
    .card-group {
@@ -52,6 +51,7 @@ h2 {
    border-bottom: solid 3px #ffa500;
 }
 
+
 p {
    font-size: 1.2rem;
    color: #708090;
@@ -60,3 +60,4 @@ p {
 .index {
    padding: 20px;
 }
+© 2021 GitHub, Inc.

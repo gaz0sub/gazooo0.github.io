@@ -24,13 +24,13 @@ body {
    }
 
    .card-text {
-      font-size: 12px;
+      font-size: 1.2rem;
       margin-top: 8px;
       text-align: center;
    }
 
    .card-title{
-      font-size: 15px;
+      font-size: 1.5rem;
       font-weight: bold;
       line-height: 125%;
       text-align: center;
@@ -53,7 +53,7 @@ h2 {
 
 
 p {
-   font-size: 12px;
+   font-size: 1.2rem;
    color: #708090;
 }
 

@@ -9,9 +9,9 @@ body {
 
    .card-group {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(300px, 300px));
+      grid-template-columns: repeat(auto-fit, minmax(3rem, 3rem));
       text-align: center;
-      margin: 15px;
+      margin: 1.5rem;
    }
 
    .card{
